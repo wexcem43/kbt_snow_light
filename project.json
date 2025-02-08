@@ -1,14 +1,14 @@
 {
-  "name": "AquaTemp",
+  "name": "SnowLight",
   "about": " ",
-  "version": "1.36",
+  "version": "0.1",
   "notes": " ",
   "builds": [
     {
-      "chipFamily": "ESP8266",
+      "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/wexcem43/Aqua_temp/main/bin/po.bin",
+          "path": "https://raw.githubusercontent.com/wexcem43/kbt_snow_light/main/bin/po.bin",
           "offset": 0
         }
       ]
