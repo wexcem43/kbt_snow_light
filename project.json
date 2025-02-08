@@ -1,0 +1,17 @@
+{
+  "name": "AquaTemp",
+  "about": " ",
+  "version": "1.36",
+  "notes": " ",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/wexcem43/Aqua_temp/main/bin/po.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
